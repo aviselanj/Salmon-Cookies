@@ -1,3 +1,6 @@
+html, body{
+	margin: 0;
+  }
 .first-color { 
 	background: #e0ffcd; 
 }
@@ -17,6 +20,8 @@ h1{
     
 		font-family:'Pacifico', cursive;
 		color: #d46d59;
-		text-align: center
-};
-
+		text-align: center;
+}
+div .third-color{
+	color: rgb(151, 48, 48)
+}
